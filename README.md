@@ -35,3 +35,6 @@ You will start searching for a calculator or jump to a new tab to calculate the 
 - Replit is very easy to share tutorials and code.
 - You can easily fork this repl and continue learning in your own style. Video, code as well as text tutorial on the same page which makes things easy!
 - For fellow teachers out there, you create a .tutorial folder to create tutorials using replit.
+  
+## visuval studio code 
+- i still love this platform rather then replit
